@@ -31,3 +31,5 @@ Loaders and loading state can be added with suspense tags.
 Sorting data with search params can also be added.
 
 Keyword filters instead of just name search can also be added.
+
+Unit testing
